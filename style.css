@@ -221,7 +221,7 @@ section .title::after{
   justify-content: center;
   
   padding: 12px 36px;
-    margin-top: 20px;
+    margin-top: 1px;
 }
 
 .PIPbutton__text{
@@ -235,6 +235,21 @@ section .title::after{
 .PIPbutton__text i{
   margin-left: 3px;
   font-size: 20px;
+
+}
+
+
+.pip_title{
+    display: flex;
+    justify-content: center;
+}
+
+
+.piptitle{
+    display: flex;
+    justify-content: center;
+    
+
 }
 
 
